@@ -19,8 +19,9 @@
 
 ## 📂 Projects
 
-- 🤖 [EduBot — AI Education Chatbot](https://github.com/Destroyer1819) — AI-powered chatbot that guides learners through problems step by step instead of just giving answers. Built from scratch using Python.
-- 🌐 [Duraflame Company Website](https://duraflame.co.za) — Designed, developed and currently host the live company website for Duraflame. Full deployment and ongoing maintenance managed by me.
+- 🤖 [EduBot — AI Education Chatbot](https://github.com/Destroyer1819) - AI-powered chatbot that guides learners through problems step by step instead of just giving answers. Built from scratch using Python.
+- 🌐 [Duraflame Company Website](https://duraflame.co.za) - Designed, developed and currently host the live company website for Duraflame. Full deployment and ongoing maintenance managed by me.
+- 🌐 [Combustion Components Website](https://combustioncomponents.co.za) - Designed, developed and currently host the live company website for Combustion Components. Responsible for full deployment and ongoing maintenance.
 - 🖥️ [Client Demo Websites ×3](https://github.com/Destroyer1819) — Three professional showcase websites built for prospective clients to demonstrate web development and hosting capabilities.
 
 ---
